@@ -40,8 +40,7 @@ These outputs demonstrate how raw customer information can be organized, summari
 
 1. Open the notebook in Jupyter Notebook.
 2. Install the required libraries.
-3. Run the notebook cells in order.
-4. Open the `output` folder to view the generated files.
+3. Run the code and open the `output` folder to view the generated files.
 
 
 Through this project, I practiced retrieving data from an API, exploring nested data, using Python sets and dictionaries, organizing data into a DataFrame, and creating a chart to communicate findings.
