@@ -1,0 +1,18 @@
+Project Requirements
+
+Python 3.x
+
+Required libraries:
+> requests
+> pandas
+> matplotlib
+
+The pathlib and pprint modules are included with Python.
+
+Data source:
+https://jsonplaceholder.typicode.com/users
+
+The project requires an internet connection to retrieve customer data from the API.
+
+To install the required libraries, run:
+pip install requests pandas matplotlib
