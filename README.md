@@ -2,7 +2,7 @@
 
 ## About the Project
 
-This project uses sample customer data from an online API to explore customer information, identify patterns, and summarize useful findings. It was built to practice working with real-world data structures and learn how data can be organized for analysis.
+This project uses data from an online API to explore customer information, identify patterns, and summarize useful findings. It was built to practice working with real-world data structures and learn how data can be organized for analysis.
 
 ## What the Project Does
 
